@@ -1,0 +1,7 @@
+C:\Users\mario\source\repos\ProyectoFinalAppConsola\bin\Debug\ProyectoFinalAppConsola.exe.config
+C:\Users\mario\source\repos\ProyectoFinalAppConsola\bin\Debug\ProyectoFinalAppConsola.exe
+C:\Users\mario\source\repos\ProyectoFinalAppConsola\bin\Debug\ProyectoFinalAppConsola.pdb
+C:\Users\mario\source\repos\ProyectoFinalAppConsola\obj\Debug\ProyectoFinalAppConsola.csprojAssemblyReference.cache
+C:\Users\mario\source\repos\ProyectoFinalAppConsola\obj\Debug\ProyectoFinalAppConsola.csproj.CoreCompileInputs.cache
+C:\Users\mario\source\repos\ProyectoFinalAppConsola\obj\Debug\ProyectoFinalAppConsola.exe
+C:\Users\mario\source\repos\ProyectoFinalAppConsola\obj\Debug\ProyectoFinalAppConsola.pdb
